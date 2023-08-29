@@ -19,7 +19,7 @@ p {
     
  }
 
-/* ------------------LOGO-AND-SOCIAL ICON---------------- */
+
 
 footer {
     background-color: #0A224A;
@@ -76,7 +76,7 @@ footer {
 }
 
 
-/* ------------------FOOTER MENU---------------- */
+
 
 .footer-menu {
     margin-bottom: 36px;
@@ -93,7 +93,7 @@ footer {
     color: #ffff;
 }
 
-/* -----------------FOOTER ADRESS------------------ */
+
 
 .footer-geo {
     margin-bottom: 35px;
@@ -111,7 +111,7 @@ footer {
 
 }
 
-/* ------------------footer number -------------- */
+
 .footer-contacts {
     margin-bottom: 64px;
 }
@@ -134,7 +134,7 @@ footer {
 .hiddan-mail {
     display:none;
 }
-/* ----------------------------footer privacy---------- */
+
 
 .footer-agreement {
     opacity: 0.6;
@@ -153,7 +153,7 @@ letter-spacing: 0.18em;
     text-decoration: underline;
 }
 
-/* --------------RESPONSIVE-------------- */
+
 
 @media screen and (min-width:375px ) {
     .footer-div {
@@ -171,7 +171,7 @@ letter-spacing: 0.18em;
         position: relative;
     }
 
-    /* ------------------LOGO-AND-SOCIAL ICON---------------- */
+    
     .footer-logotype {
         width: 127px;
         height: 16;
@@ -191,7 +191,7 @@ letter-spacing: 0.18em;
 
 
 
-    /* ------------------FOOTER MENU---------------- */
+    
     .footer-menu {
         display: inline-flex;
         position: absolute;
@@ -207,7 +207,7 @@ letter-spacing: 0.18em;
 
 
 
-    /* -----------------FOOTER ADRESS------------------ */
+    
     .footer-geo {
         margin-bottom: 64px;
     }
@@ -217,7 +217,7 @@ letter-spacing: 0.18em;
 }
 
 
-/* ------------------footer number -------------- */
+
 
 .hiddan-mail {
     display: block;
@@ -241,7 +241,7 @@ letter-spacing: 0.18em;
     margin-bottom: 64px;
 }
 
-/* ----------------------------footer privacy---------- */
+
 .footer-agreement {
     opacity: 0.6;
     font-size: 16px;
@@ -259,13 +259,13 @@ letter-spacing: 0.18em;
 
     }
 
-/* ------------------LOGO-AND-SOCIAL ICON---------------- */
+
 .footer-logo {
     margin-bottom: 39px;
 }
 
 
-/* ------------------FOOTER MENU---------------- */
+
 
 .footer-menu {
     left: 396px;
@@ -278,12 +278,12 @@ letter-spacing: 0.18em;
     
 }
 
-/* -----------------FOOTER ADRESS------------------ */
+
 .footer-geo {
     margin-bottom: 35px;
 }
 
-/* ------------------footer number -------------- */
+
  
 .footer-contacts {
     max-width: 350px;
@@ -300,6 +300,6 @@ letter-spacing: 0.18em;
     gap: 24px 82px;
 }
 
-/* -----------------footer privacy---------- */
+
 
 }
