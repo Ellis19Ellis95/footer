@@ -189,8 +189,6 @@ letter-spacing: 0.18em;
         height: 40px;
       }
 
-
-
     
     .footer-menu {
         display: inline-flex;
@@ -205,8 +203,6 @@ letter-spacing: 0.18em;
         gap: 16px;
     }
 
-
-
     
     .footer-geo {
         margin-bottom: 64px;
@@ -215,8 +211,6 @@ letter-spacing: 0.18em;
     .footer-geo-list {
     gap: 24px;
 }
-
-
 
 
 .hiddan-mail {
@@ -265,8 +259,6 @@ letter-spacing: 0.18em;
 }
 
 
-
-
 .footer-menu {
     left: 396px;
     top: 36px;
@@ -284,7 +276,6 @@ letter-spacing: 0.18em;
 }
 
 
- 
 .footer-contacts {
     max-width: 350px;
     position: absolute;
@@ -299,7 +290,5 @@ letter-spacing: 0.18em;
     height: 70px;
     gap: 24px 82px;
 }
-
-
 
 }
